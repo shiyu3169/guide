@@ -8,7 +8,7 @@
 
 # production
 /lib
-/dist
+# /dist
 /docs-dist
 
 # misc
